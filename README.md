@@ -1,1 +1,4 @@
-# Minesweeper
+School project for a Java class. The basic requirements were to make an 1000+ line project using the professor's custom graphics package. I chose to create Minesweeper.
+
+https://github.com/evanhollier/Minesweeper/assets/38679400/c6fc8204-b693-4f40-beef-c5e8c3b9b753
+
