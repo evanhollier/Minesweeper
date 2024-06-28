@@ -1,0 +1,8 @@
+basicgraphics.examples.Foo
+basicgraphics.examples.BasicGraphics
+basicgraphics.examples.BasicGraphics$5
+basicgraphics.examples.BasicGraphics$4
+basicgraphics.examples.BasicGraphics$3
+basicgraphics.examples.BasicGraphics$2
+basicgraphics.examples.BasicGraphics$1
+basicgraphics.examples.BasicGraphics$Ball
