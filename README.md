@@ -1,4 +1,4 @@
-School project for a Java class during freshman year (spring 2018). The basic requirements were to make an 1000+ line project using the professor's custom graphics package. I chose to create Minesweeper.
+School project for a Java class during freshman year of undergrad (spring 2018). The basic requirements were to make an 1000+ line project using the professor's custom graphics package. I chose to create Minesweeper.
 
 My code is in BasicGraphics/src/eholli9_FinalProj
 
